@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="change">CHANGE</string>
+    <string name="your_name">Your name</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
